@@ -1,0 +1,54 @@
+{
+  "configurations": [
+    {
+      "type": "java",
+      "name": "MovieplatformApplication",
+      "request": "launch",
+      "mainClass": "com.mesto.movieplatform.MovieplatformApplication"
+    },
+    {
+      "type": "java",
+      "name": "Movieplatform",
+      "request": "launch",
+      "mainClass": "com.mesto.movieplatform.Movieplatform",
+      "projectName": ""
+    },
+    {
+      "type": "java",
+      "name": "MovieRecommendation",
+      "request": "launch",
+      "mainClass": "com.mesto.movieplatform.MovieRecommendation",
+      "projectName": ""
+    },
+    {
+      "type": "java",
+      "name": "Spring Boot-NetflixcloneApplication<netflixclone>",
+      "request": "launch",
+      "cwd": "${workspaceFolder}",
+      "mainClass": "com.shakkib.netflixclone.NetflixcloneApplication",
+      "projectName": "netflixclone",
+      "args": "",
+      "envFile": "${workspaceFolder}/.env"
+    },
+    {
+      "type": "java",
+      "name": "Spring Boot-NetflixcloneApplication<netflixclone>",
+      "request": "launch",
+      "cwd": "${workspaceFolder}",
+      "mainClass": "com.mesto.movieplatform.NetflixcloneApplication",
+      "projectName": "netflixclone",
+      "args": "",
+      "envFile": "${workspaceFolder}/.env"
+    },
+    {
+      "type": "java",
+      "name": "Spring Boot-MovieplatformApplication<movieplatform>",
+      "request": "launch",
+      "cwd": "${workspaceFolder}",
+      "mainClass": "com.mesto.movieplatform.MovieplatformApplication",
+      "projectName": "movieplatform",
+      "args": "",
+      "envFile": "${workspaceFolder}/.env"
+    }
+  ]
+}
